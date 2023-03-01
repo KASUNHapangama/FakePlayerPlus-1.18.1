@@ -1,0 +1,8 @@
+name: FakePlayerPlus
+version: '1.0-SNAPSHOT (1.18.1)'
+main: fakeplayerplus.fakeplayerplus.FakePlayerPlus
+api-version: 1.18
+prefix: [ FakePlayerPlus ]
+authors: [ KASUNhapangama2 ]
+description: Fake Player Plugin
+website: dsc.gg/sundevs
